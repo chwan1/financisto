@@ -10,7 +10,7 @@
 -->
 <resources>
 
-    <style name="Theme.Financisto" parent="android:Theme.Holo.Light.DarkActionBar">
+    <style name="Theme.Financisto" parent="android:Theme.Material.Light.DarkActionBar">
 
     </style>
 
@@ -43,7 +43,7 @@
         <item name="android:src">@drawable/spinner_ab_default_holo_light_am</item>
     </style>
 
-    <style name="ListButton" parent="android:Widget.Holo.Button.Borderless.Small">
+    <style name="ListButton" parent="android:Widget.Material.Button.Borderless.Small">
         <item name="android:minHeight">40dip</item>
         <item name="android:minWidth">40dip</item>
         <item name="android:focusable">false</item>
@@ -106,7 +106,7 @@
         <item name="android:windowContentOverlay">@null</item>
     </style>
 
-    <style name="ButtonBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+    <style name="ButtonBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
         <!--<item name="android:paddingTop">5dip</item> -->
         <!--<item name="android:paddingLeft">4dip</item> -->
         <!--<item name="android:paddingRight">4dip</item> -->
